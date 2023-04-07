@@ -41,12 +41,3 @@ Email: sunguibinx@buaa.edu.cn
 
 @Copyright: If using this procedure for publications, please cite the article 
 "Mean-shift selfless exploration in shape assembly of robot swarms".
-
-
-
-
-
-
-
-
-
