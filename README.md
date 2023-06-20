@@ -40,5 +40,4 @@ School of Automation Science and Electrical Engineering
 Beihang University
 Email: sunguibinx@buaa.edu.cn
 
-@Copyright: If using this procedure for publications, please cite the article 
-"Mean-shift selfless exploration in shape assembly of robot swarms".
+@Copyright: If using this procedure for publications, please cite the article: Sun, G., Zhou, R., Ma, Z. et al. Mean-shift exploration in shape assembly of robot swarms. Nat Commun 14, 3476 (2023). https://doi.org/10.1038/s41467-023-39251-5
